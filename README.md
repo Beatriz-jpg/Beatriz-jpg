@@ -1,6 +1,6 @@
 ## Olá!👋 
 Acesse o meu repositório público no GitHub. Eu estarei publicando alguns desafios e projetos que estou estudando e praticando, para fazerem parte do meu portfólio na área da tecnologia. Fique à vontade para conferir e, caso queira entender mais a respeito, é só entrar em contato!
-![fundo](https://github.com/user-attachments/assets/4f8d4056-ff6c-4c09-a8ae-833d23590965)
+
 
 <!--
 **Beatriz-jpg/Beatriz-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
