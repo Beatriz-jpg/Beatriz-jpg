@@ -1,5 +1,5 @@
 ## Olá!👋 
-Acesse o meu repositório público no GitHub. Eu estarei publicando alguns desafios e projetos que estou estudando e praticando, para fazerem parte do meu portfólio na área da tecnologia. Fique à vontade para conferir e, caso queira entender mais a respeito, é só entrar em contato!
+Acesse o meu repositório público no GitHub. Estarei publicando alguns desafios e projetos que estou estudando e praticando. Fique à vontade para conferir e, caso queira entender mais a respeito, é só entrar em contato!
 
 
 <!--
